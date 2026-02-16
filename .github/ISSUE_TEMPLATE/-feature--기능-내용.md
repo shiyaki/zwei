@@ -1,9 +1,9 @@
 ---
 name: "[Feature] 기능 내용"
 about: 해당 Feature 템플릿을 사용하여 기능을 추가해주세요.
-title: ''
-labels: ''
-assignees: ''
+title: "[Feature] 기능 내용"
+labels: '"Feature"'
+assignees: higakaga
 
 ---
 
